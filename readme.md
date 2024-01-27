@@ -3,7 +3,8 @@ Welcome
 After git clone;
 
 1) Set up environmet
-2) Set up .env file for API credsx
+2) Set up .env file for API creds
+3) Change Bootstrap servers from producer.py file
 
 python3.8 -m venv producerenv
 
