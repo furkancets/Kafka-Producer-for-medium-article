@@ -8,6 +8,7 @@ import os
 
 load_dotenv()
 # Kafka bootstrap server configuration
+######PLEASE CHANGE YOUR BOOTSTRAP SERVERS HOST IP'S#########
 bootstrap_servers = '192.168.67.7:9092,192.168.67.5:9092,192.168.67.6:9092'
 topic_name = 'newsapiproducerv1'
 
